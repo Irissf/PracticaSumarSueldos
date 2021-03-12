@@ -277,7 +277,7 @@ namespace PracticaSumarSueldos
             // lblPlanilla
             // 
             this.lblPlanilla.AutoSize = true;
-            this.lblPlanilla.Location = new System.Drawing.Point(396, 460);
+            this.lblPlanilla.Location = new System.Drawing.Point(396, 470);
             this.lblPlanilla.Name = "lblPlanilla";
             this.lblPlanilla.Size = new System.Drawing.Size(113, 13);
             this.lblPlanilla.TabIndex = 21;
@@ -285,7 +285,7 @@ namespace PracticaSumarSueldos
             // 
             // txtPlanilla
             // 
-            this.txtPlanilla.Location = new System.Drawing.Point(515, 453);
+            this.txtPlanilla.Location = new System.Drawing.Point(515, 463);
             this.txtPlanilla.Name = "txtPlanilla";
             this.txtPlanilla.Size = new System.Drawing.Size(100, 20);
             this.txtPlanilla.TabIndex = 22;
